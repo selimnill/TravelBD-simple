@@ -1,0 +1,41 @@
+.col img{
+    width: 80%;
+}
+div ul li a{
+    color: white;
+}
+.navv{
+    background-color: rgb(41, 225, 72);
+    color: white;
+}
+body{
+    background-color: black;
+}
+.hero-section div img{
+    width: 80%;
+    border-radius: 20px;
+}
+.hero-section{
+    display: flex;
+    margin-top: 90px;
+    background-color: rgb(242, 242, 248);
+    padding: 40px;
+}
+.heroImg{
+    width: 40%;
+    height: 50%;
+}
+.contact-body{
+    background-color: white;
+}
+.contact-formm{
+    width: 40%;
+    margin-top: 150px;
+}
+.fromimg{
+    background-color: lightblue;
+
+}
+.form-controll{
+    margin-top: 150px;
+}
